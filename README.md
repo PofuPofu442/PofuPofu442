@@ -13,7 +13,7 @@
 - **OpenCV**: Expertise in computer vision.
 - **PowerBI**: Skilled in creating interactive data visualizations.
 - **Raspberry Pi**: Working on projects involving accelerometers and geophones for seismic activity monitoring.
-- **CNC Programming**: Experienced with programming for plastic material machining.
+- **PCB Design**: Interested in PCB design and have completed a few designs in the past.
 
 ### Projects
 - **POST - Palm Oil System Technology**: Designing a software solution for managing palm oil plantations.
