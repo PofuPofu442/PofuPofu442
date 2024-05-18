@@ -1,16 +1,33 @@
-### Hi there 👋
+# About Me
 
-<!--
-**PofuPofu442/PofuPofu442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Danial Faris, a passionate and results-oriented telecommunication professional with a focus on the 5G industry and software engineering. I'm currently pursuing a Bachelor's Degree in Electronic Engineering Technology (Computer System) at Universiti Malaysia Pahang Al-Sultan Abdullah.
 
-Here are some ideas to get you started:
+## 🔧 Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages
+- **C++**: Learned during my diploma.
+- **Python**: Utilized for various projects, including computer vision and data analysis.
+- **HTML, CSS, PHP**: Proficient in web development.
+
+### Tools & Technologies
+- **OpenCV**: Expertise in computer vision.
+- **PowerBI**: Skilled in creating interactive data visualizations.
+- **Raspberry Pi**: Working on projects involving accelerometers and geophones for seismic activity monitoring.
+- **CNC Programming**: Experienced with programming for plastic material machining.
+
+### Projects
+- **POST - Palm Oil System Technology**: Designing a software solution for managing palm oil plantations.
+- **Seismic Activity Monitoring**: Developing an earthquake detection system using vibration sensors.
+- **Animal Tracking in Wildlife Videos**: Utilizing object tracking techniques to monitor animal movements for ecological research.
+
+## 🌱 Learning & Growth
+I'm always eager to expand my knowledge and skills. Currently, I'm diving deeper into:
+- Advanced machine learning algorithms
+- Real-time data processing and analysis
+- Enhancing my proficiency in IoT applications
+
+## 📫 Connect with Me
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/danialfrs/)
+- **Email**: danialfarismohdjunaide@gmail.com
+
+Thank you for visiting my profile! Let's connect and explore new opportunities together.
