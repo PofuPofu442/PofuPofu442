@@ -27,7 +27,7 @@ I'm always eager to expand my knowledge and skills. Currently, I'm diving deeper
 - Enhancing my proficiency in IoT applications
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/danialfrs/)
+- **LinkedIn**: [Danial Faris](https://www.linkedin.com/in/danialfrs/)
 - **Email**: danialfarismohdjunaide@gmail.com
 
 Thank you for visiting my profile! Let's connect and explore new opportunities together.
