@@ -3,6 +3,7 @@
 👋 Hi there! I'm Danial Faris, a passionate and results-oriented telecommunication professional with a focus on the 5G industry and software engineering. I'm currently pursuing a Bachelor's Degree in Electronic Engineering Technology (Computer System) at Universiti Malaysia Pahang Al-Sultan Abdullah.
 
 
+
 ## 🔧 Skills & Expertise
 
 ### Programming Languages
