@@ -32,6 +32,6 @@ I'm always eager to expand my knowledge and skills. Currently, I'm diving deeper
 
 ## 📫 Connect with Me
 - **LinkedIn**: [Danial Faris](https://www.linkedin.com/in/danialfrs/)
-- **Email**: danialfarismohdjunaide@gmail.com
+- **Email**: danialfarisjunaide@gmail.com
 
 Thank you for visiting my profile! Let's connect and explore new opportunities together.
